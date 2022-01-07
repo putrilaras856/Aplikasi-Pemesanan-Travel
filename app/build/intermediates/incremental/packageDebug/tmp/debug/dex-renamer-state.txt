@@ -1,0 +1,7 @@
+#Fri Jan 07 21:40:47 ICT 2022
+base.0=D\:\\file bima\\Pemesanan-Travel-master\\Pemesanan-Travel-master\\TravelApps\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\file bima\\Pemesanan-Travel-master\\Pemesanan-Travel-master\\TravelApps\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
